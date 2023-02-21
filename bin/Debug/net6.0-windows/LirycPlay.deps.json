@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "LirycPlay/1.0.0": {
+        "runtime": {
+          "LirycPlay.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LirycPlay/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
